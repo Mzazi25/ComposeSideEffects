@@ -9,9 +9,9 @@ The list of side effect handlers used in this project are:
 * [SideEffect](https://developer.android.com/jetpack/compose/side-effects#sideeffect-publish)
 
 * [LaunchedEffect](https://developer.android.com/jetpack/compose/side-effects#launchedeffect)
-* 
+
 * [SnapShot](https://developer.android.com/jetpack/compose/side-effects#snapshotFlow)
-* 
+
 * [DisposableEffect](https://developer.android.com/jetpack/compose/side-effects#disposableeffect)
 
 * [rememberUpdatedState](https://developer.android.com/jetpack/compose/side-effects#rememberupdatedstate)
